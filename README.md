@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rian Islam</h1>
 <h3 align="center">I am a CS background Student, Curious about Web Application Development, and Security</h3>
 
-<p align="left"> <a href="https://twitter.com/@rianislam0x" target="blank"><img src="https://img.shields.io/twitter/follow/@rianislam0x?logo=twitter&style=for-the-badge" alt="@rianislam0x" /></a> </p>
-
 - 🔭 I’m currently working on **React Js**
 
 - 🌱 I’m currently learning **Node Js**
@@ -15,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@rianislam0x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rianislam0x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rian-islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rian-islam" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/100rian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="https://dribbble.com/100rian" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsytsmlcmjvjq2z_axfax1w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucsytsmlcmjvjq2z_axfax1w" height="30" width="40" /></a>
@@ -28,4 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rianislam&show_icons=true&locale=en&layout=compact" alt="rianislam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rianislam&show_icons=true&locale=en" alt="rianislam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianislam&" alt="rianislam" /></p>
 
