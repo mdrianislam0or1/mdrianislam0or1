@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **Javascript,React Js**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uN7zkhHmXDlPp4n2B3MMN_B4CkQW7Mit/view](https://drive.google.com/file/d/1uN7zkhHmXDlPp4n2B3MMN_B4CkQW7Mit/view)
+
 - ⚡ Fun fact **I want to learn Everything :D**
 
 
