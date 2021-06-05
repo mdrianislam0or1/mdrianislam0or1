@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript,React Js**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B_wU0TvTpRKZzEfmH4L9NpfTR5SYkKbr/view?usp=sharing](https://drive.google.com/file/d/1B_wU0TvTpRKZzEfmH4L9NpfTR5SYkKbr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B_wU0TvTpRKZzEfmH4L9NpfTR5SYkKbr/view?usp=sharing](https://drive.google.com/file/d/1gH9IAc3N9SY8Rj9RfFsadh9aGhW9CtAH/view?usp=sharing)
 
 - ⚡ Fun fact **I want to learn Everything :D**
 
