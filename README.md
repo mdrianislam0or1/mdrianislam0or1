@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rian Islam</h1>
-<h4 align="center">
+<p>
 {<br>
   title: 'Jr. Web Developer', <br>
   Expertise: 'JavaScript, ES6, React, Tailwind CSS, Bootstrap', <br>
@@ -19,7 +19,7 @@ Twitter:' https://twitter.com/rianislam0or_',<br>
   }<br>
 }<br>
 
-</h4>
+</p>
 
 - 🔭 I’m currently working on **React Js**
 
