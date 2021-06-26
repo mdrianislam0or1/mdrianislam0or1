@@ -3,21 +3,21 @@
 
 <h1 align="center">Hi 👋, I'm Rian Islam</h1>
 <h4 align="center">
-{
-  title: 'Jr. Web Developer',
-  Expertise: 'JavaScript, ES6, React, Tailwind CSS, Bootstrap',
-  Comfortable: ' Node, Express,MongoDB,Python,Flask',
-Familiar:' React native, Chrome extension,SQL',
-Tools:'Adobe Illustrator,Adobe Photoshop,Adobe XD,Kali Linux,Burp Suite,CLI ',
-Dev Tools:' Git, Github, Firebase,Heroku, etc',
-  hobbies: [ 'Coding', 'Gaming', 'Cricket', 'Football'],
-  lovesOpenSource: true,
-  social: {
-Github: ' https://github.com/RianIslam',
-    linkedin: 'https://www.linkedin.com/in/rian-islam/',
-Twitter:' https://twitter.com/rianislam0or_',
-  }
-}
+{<br>
+  title: 'Jr. Web Developer', <br>
+  Expertise: 'JavaScript, ES6, React, Tailwind CSS, Bootstrap', <br>
+  Comfortable: ' Node, Express,MongoDB,Python,Flask',<br>
+Familiar:' React native, Chrome extension,SQL',<br>
+Tools:'Adobe Illustrator,Adobe Photoshop,Adobe XD,Kali Linux,Burp Suite,CLI ',<br>
+Dev Tools:' Git, Github, Firebase,Heroku, etc',<br>
+  hobbies: [ 'Coding', 'Gaming', 'Cricket', 'Football'],<br>
+  lovesOpenSource: true,<br>
+  social: {<br>
+Github: ' https://github.com/RianIslam',<br>
+    linkedin: 'https://www.linkedin.com/in/rian-islam/',<br>
+Twitter:' https://twitter.com/rianislam0or_',<br>
+  }<br>
+}<br>
 
 </h4>
 
