@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/67714964/117198657-1a0f0f80-ae0b-11eb-99d6-e65a7f2c406d.png" height="175px"/></a>
 
-<h1 align="center">HELLO <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rian Islam</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rian Islam</h1>
 <h3 align="center">Curious about Web Application Development, and Security</h3>
 
 <p>
