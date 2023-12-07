@@ -4,9 +4,12 @@
 
 <br>
 
-<a href="https://rianislam-me.web.app/" align="center">
+<p align="center">
+<a href="https://rianislam-me.web.app/">
 <img src='https://github.com/mdrianislam0or1/mdrianislam0or1/assets/67714964/a5851ee5-42ab-4aea-b2c3-c13a33a98bc3' width='300"'>
 </a>
+</p>
+
 <br>
 <br>
 <br>
